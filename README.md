@@ -9,4 +9,4 @@ Below is a sketch of the proposed solution for load balancing messages across Az
 
 ## Deployment Steps
 
-TBD
+TBD 
