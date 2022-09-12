@@ -12,8 +12,8 @@ Below is a sketch of the proposed solution for load balancing messages across Az
 ![](/images/s1.png)
 
 ## Deployment Steps
-
 TBD
 
 ## Disclaimer
 The code and deployment biceps are to be used for demonstration pusposes only. The code is not enterprise ready code and is not intended for production use.
+
